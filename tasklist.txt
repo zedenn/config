@@ -1,0 +1,14 @@
+# Tasks that needs to be achieved with Linux swaywm
+===================================================
+
+1. Scaling for 4k monitor
+2. Videoplayer
+3. Zip/Unzip files easily
+4. OBS recording
+5. Markdown editing and viewing easily
+	5b. Create PDF file from markdown
+6. Connecting to a network drive
+7. Fast way to open outlook
+8. Hotkey to pull up documentation
+9. Learn to use ranger
+
